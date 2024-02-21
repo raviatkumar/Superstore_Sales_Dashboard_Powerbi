@@ -12,7 +12,18 @@ This initiative is driven by the need to enhance data-driven decision-making by 
 
 # Tools Used:
 
+Microsoft Power BI
+
 # Dashboards:
 
-# Sales Analysis Dashboard:
+## Sales Analysis Dashboard:
 
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Superstore_Sales_Dashboard_Powerbi/main/Image/Sales%20analysis.PNG)
+
+## Product Analysis Dashboard:
+
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Superstore_Sales_Dashboard_Powerbi/main/Image/Product%20analysis.PNG)
+
+## Shipping Analysis Dashboard:
+
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Superstore_Sales_Dashboard_Powerbi/main/Image/shipping%20analysis.PNG)
